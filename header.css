@@ -158,11 +158,11 @@ body{
   font-size: 18px;
 }
 .space{
-  padding-left: 10px;
+  padding-left: 5px;
 }
 @media (max-width: 860px){
   .allSections{
-    margin-top: 45px;
+    margin-top: 40px;
     padding-top: 10px;
   }
 }
