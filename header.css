@@ -1,14 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Joan&display=swap');
 *{
   margin: 0;
   padding: 0;
   font-size: 28px;
+  font-family: 'Courgette', cursive;
 }
 body{
   background-image: url(img/backgroundImg.jpg);
+  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-attachment: fixed;
 }
 
 #backgorundBlackOpacity{
