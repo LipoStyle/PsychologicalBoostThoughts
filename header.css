@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Joan&display=swap');
 *{
   margin: 0;
   padding: 0;
   font-size: 28px;
-  font-family: 'Courgette', cursive;
+  
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-body{
+html{
   background-image: url(img/backgroundImg.jpg);
   background-attachment: fixed;
   background-position: center;
