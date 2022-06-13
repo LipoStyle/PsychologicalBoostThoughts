@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Joan&display=swap')S;
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 *{
   margin: 0;
   padding: 0;
   font-size: 28px;
-  font-family: 'Joan', serif;;
+  font-family: 'Shadows Into Light', cursive;
 }
 body{
   background-image: url(img/backgroundImg.jpg);
@@ -148,12 +148,12 @@ body{
 
 }
 .allSections > div > h2{
-  color: #db6167dc;
+  color: #963d41dc;
   font-size: 40px;
   text-align: center;
 }
 .allSections > div > p{
-  color: #feffffad;
+  color: #cfd8d8ad;
   letter-spacing: 1.5px;
   line-height: 16px;
   font-size: 18px;
