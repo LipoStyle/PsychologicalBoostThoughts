@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&family=Joan&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Joan&display=swap')S;
 *{
   margin: 0;
   padding: 0;
   font-size: 28px;
-  font-family: 'Inconsolata', monospace;
+  font-family: 'Joan', serif;;
 }
 body{
   background-image: url(img/backgroundImg.jpg);
@@ -153,7 +153,7 @@ body{
   text-align: center;
 }
 .allSections > div > p{
-  color: #feffff80;
+  color: #feffffad;
   letter-spacing: 1.5px;
   line-height: 16px;
   font-size: 18px;
